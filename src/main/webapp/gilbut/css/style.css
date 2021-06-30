@@ -504,3 +504,16 @@ button {
 	height : 800px;
 	background-image : url(../img/Science/science_bg.png);
 }
+
+#science .scienceWrap {
+	position : relative;
+	width : 1066px;
+	height: 611px;
+	
+	left : 50%;
+	margin-left : -533px;
+}
+
+#science .scienceWrap .scienceleftWrap {
+	float : left;
+}
